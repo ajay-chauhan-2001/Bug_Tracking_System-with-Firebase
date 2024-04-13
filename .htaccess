@@ -1,0 +1,2 @@
+#this is 404 error page to show 
+ErrorDocument 404 http://localhost/Bug_Tracking_System/404.php
